@@ -40,4 +40,4 @@ trickOrTreat(3,[["candy","apple","candy"],["candy","candy"]])
 sollte zurückgeben: "Das gibt Saures!"(Ein Kind hat keine Süßigkeiten bekommen)
 
 trickOrTreat(3,[["candy","apple","candy"],["candy","candy"],["candy","bomb","candy"]])
-sollte zurückgeben: "Das gibt Saures!"(Ein Kind hat die Bombe erhalten)
+sollte zurückgeben: "Das gibt Saures!"(Ein Kind hat die Bombe erhalten)x
